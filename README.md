@@ -4,8 +4,18 @@ The following files contain solutions to all five propose projects concerning th
 
 The five projects are listed as follows:
 
-- Palindrome Checker;
-- Roman Numeral Converter;
-- Caesars Chiper;
-- Telephone Number Validator;
-- Cash Register;
+- [Palindrome Checker](
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker
+);
+- [Roman Numeral Converter](
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/roman-numeral-converter
+);
+- [Caesars Chiper](
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher
+);
+- [Telephone Number Validator](
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator
+); 
+- [Cash Register](
+https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
+); 
