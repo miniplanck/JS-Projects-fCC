@@ -1,4 +1,4 @@
-# JavaScipt Projects - freeCodeCamp, 2022
+# JavaScipt Projects - freeCodeCamp (2022)
 
 The following files contain solutions to all five propose projects concerning the *JavaScript Algorithms and Data Structures* course on [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/).
 
