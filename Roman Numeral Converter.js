@@ -36,7 +36,7 @@ function convertToRoman(num) {
    }
  }
  
- let final = separated().map((element)=>{
+ let final = separated.map((element)=>{
    return translator(element);
  })
 
