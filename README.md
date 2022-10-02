@@ -19,3 +19,7 @@ https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/jav
 - [Cash Register](
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register
 ).
+
+## Developed stack
+
+<a href="https://www.javascript.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50px" height="50px"></a>&nbsp;&nbsp;
