@@ -20,9 +20,9 @@ Check the Palindrome Checker.js file.
 
 ### Solution Breakdown:
 
-We wish to check wether a string is a palindrome or not, with a few catches: non-alphanumeric characters are ignored, as well as differenct upper and lowercase variations of the simple palindrome.
+We wish to check whether a string is a palindrome or not, with a few catches: non-alphanumeric characters are ignored, as well as different upper and lowercase variations of the simple palindrome.
 
-Thus, we start by transforming the input string into lowercase only, using `.toLowerCase()`. Secondly, we divide the resulting string into single characters, whose dividors are non-alphanumeric values. This can be achived using `.split()` together with a RegExp `[^a-zA-Z0-9]`.
+Thus, we start by transforming the input string into lowercase only, using `.toLowerCase()`. Secondly, we divide the resulting string into single characters, using non-alphanumeric values as the "divisions". This can be achived with `.split()` together with a RegExp `[^a-zA-Z0-9]`.
 
 By this point, only alphanumeric values are in the `letters` array. To check whether they form a palindrome, we first join the letters with `.join('')` (strFiltered) and joined them in the reversed order (reversedStr). 
 
