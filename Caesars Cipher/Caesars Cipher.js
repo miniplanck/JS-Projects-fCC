@@ -1,3 +1,5 @@
+//Caesars Cipher
+
 function rot13(str) {
   let all = str.split(""); //Splits the string into single characters to be translated
 
