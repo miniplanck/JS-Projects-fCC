@@ -1,3 +1,5 @@
+//Palindrome Checker
+
 function palindrome(str) {
   let letters = str.toLowerCase().split(/[^a-zA-Z0-9]/i).join('').split(''); //Array with the alphanumeric characters.
   
